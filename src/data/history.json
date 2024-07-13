@@ -1,0 +1,15 @@
+[
+
+  {
+    "role": "Web Development Intern",
+    "organisation": "Prodigy InfoTech",
+    "startDate": "1st June 2023",
+    "endDate": "30th June 2024",
+    "experiences": [
+      "Contributed to software development projects",
+      "Enhanced skills in C++, JavaScript, and web development",
+      "Collaborated effectively in a team environment"
+    ],
+    "imageSrc": "history/google.png"
+  }
+]

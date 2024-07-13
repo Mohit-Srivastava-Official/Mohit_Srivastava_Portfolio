@@ -1,0 +1,22 @@
+[
+
+  {
+    "title": "Password Manager App",
+    "imageSrc": "projects/password_manager.png",
+    "description": "A secure password manager built using React, Node.js, and Express, utilizing MongoDB for data storage.",
+    "skills": ["React", "Node.js", "Express", "MongoDB"],
+    "demo": "https://mohit-srivastava-password-manager.netlify.app/",
+    "source": "https://github.com/Mohit-Srivastava-Official/Password_Manager_Final"
+  },
+  {
+    "title": "Spotify Playlist Manager",
+    "imageSrc": "projects/spotify_playlist_manager.png",
+    "description": "An application to manage Spotify playlists, built using React.js and Node.js. Integrates Spotify API for playlist management.",
+    "skills": ["React", "Node.js", "Spotify API"],
+    "demo": "https://spotifyms.freewebhostmost.com/",
+    "source": "https://github.com/Mohit-Srivastava-Official/Spotify_Clone_Updated"
+  }
+
+
+
+]
